@@ -6,6 +6,8 @@ const app = express();
 
 const PORT = process.env.PORT || 8080;
 
+requestTime();
+
 app.get('/a', (req,res) => {
   res.status(200).send('Route A');
 });
@@ -23,4 +25,3 @@ app.get('/d', (req,res) => {
 });
 
 app.listen(PORT, () => console.log(`Listening on ${PORT}`));
-
