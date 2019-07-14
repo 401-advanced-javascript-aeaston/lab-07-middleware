@@ -5,8 +5,8 @@
 ### Author: Adrienne Easton
 
 ### Links and Resources
-* [submission PR]()
-* [travis]
+* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-07-middleware/pull/1)
+* [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-07-middleware.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-07-middleware)
 
 ### Modules
 #### `get`
